@@ -1,1 +1,3 @@
-# webGIS_cemetery
+# Master's Thesis - WebGIS of Velika Trapinska cemetery
+
+This paper shows the process of developing a WebGIS application on the example of Velika Trapinska cemetery. The first part describes the technology and tools used when creating the application. Emphasisis is placedon the use of open source tools and open technologies for handling geospatial data. The second section describes the complete process of the WebGIS application development.The spatial database PostGIS is used to store data. Map content is served using the application server GeoServer. Development of the user interface and implementation of the WebGIS functionality is enabled by using OpenLayers, ExtJS and GeoExt frameworks written in JavaScript.
