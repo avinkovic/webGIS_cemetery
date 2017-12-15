@@ -1,0 +1,29 @@
+.Wrap {
+border: 1px #999999 solid;
+margin : 3px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background-color: #ffffcc;
+padding-bottom: 3px;
+}
+.Selected {
+border: 1px #66ff66 solid;
+background-color: #ccffcc;
+cursor: pointer;
+}
+.Over {
+border: 1px #9999ff solid;
+background-color: #ccccff;
+cursor: pointer;
+}
+.Name {
+font-weight: bold;
+margin-left: 5px;
+font-size: 14px;
+text-decoration: underline;
+color: #333333;
+}
+.title {
+margin-left: 5px;
+font-weight: bold;
+}
